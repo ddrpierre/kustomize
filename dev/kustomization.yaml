@@ -8,7 +8,7 @@ namespace: tp7-kustomize
 images:
 - name: ghcr.io/ddrpierre/spring-petclinic
   newName: ghcr.io/ddrpierre/spring-petclinic
-  newTag: fff182942d5352751e0e7e89f3cc146c00e46d35
+  newTag: 82b7799dbe5b47725e0b787f14dc212219aeb94f
 - name: spring-petclinic
   newName: ghcr.io/ddrpierre/spring-petclinic
   newTag: 0927a371be3444ede94e4a25a23e082022033d2e
